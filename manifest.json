@@ -1,0 +1,13 @@
+{
+  "name": "UnblockedGames - Unblocked Games",
+  "short_name": "UnblockedGames",
+  "start_url": "https://unblockedgamespremiums.github.io/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/logo-280x280.png",
+      "sizes": "280x280",
+      "type": "image/png"
+    }
+  ]
+}
