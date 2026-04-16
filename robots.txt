@@ -1,6 +1,5 @@
 User-agent: *
-Disallow: /
-Allow: /games/
+Allow: /
 Allow: /index.html
 Allow: /contact.html
 Allow: /privacy-policy.html
